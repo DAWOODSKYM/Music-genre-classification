@@ -30,7 +30,7 @@ The data used is a processed version of the music genres data. It has the follow
  - Reflecting on our findings
 Follow these steps in the [Notebook](https://github.com/DAWOODSKYM/Music-genre-classification/blob/main/Music_Genres_Classsification.ipynb)
 _____________________________________________________________________________________________________________________
-> If Music is a Place — then Jazz is the City,
+> <br>If Music is a Place — then Jazz is the City,</br>
  <br>Folk is the Wilderness,</br>
  <br>Rock is the Road,</br>
  <br>Classical is a Temple.</br>
