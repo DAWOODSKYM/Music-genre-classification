@@ -28,7 +28,7 @@ The data used is a processed version of the music genres data. It has the follow
  - Exploring and understanding the Data
  - Developing and testing our machine learning system
  - Reflecting on our findings
-Follow these steps in the Notebook
+Follow these steps in the [Notebook](https://github.com/DAWOODSKYM/Music-genre-classification/blob/main/Music_Genres_Classsification.ipynb)
 _____________________________________________________________________________________________________________________
 > If Music is a Place — then Jazz is the City,
  <br>Folk is the Wilderness,</br>
